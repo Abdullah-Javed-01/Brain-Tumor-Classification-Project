@@ -1,5 +1,7 @@
+dataset/
+brain_tumor_dataset/
+*.zip
+*.h5
+*.docx
 venv/
 __pycache__/
-dataset/
-*.h5
-.ipynb_checkpoints/
